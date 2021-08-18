@@ -2,7 +2,7 @@
 # vk93383
 # A program for printing out text "Hello World!"
 
-def main:
+def main():
 
 print("Hello World!")
 
